@@ -1,0 +1,36 @@
+.Image1 {
+width: 85% ;
+}
+.container { 
+    display: flex; 
+
+}
+.Para1 {
+    width: 50%;
+    margin-right: 100px; 
+    }
+.Image2 {
+    width: 50%;
+}
+.Para2 {
+    width: 50%;
+    margin-right: 100px;
+}
+p{
+background-color: violet; 
+}
+.header {
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+    border: solid darkgrey 1px;
+    height: 100px; 
+}
+.OW {
+    justify-content: center;
+    display: flex; 
+    text-align: center; 
+}
+
+
